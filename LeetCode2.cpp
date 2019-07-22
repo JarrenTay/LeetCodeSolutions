@@ -11,6 +11,9 @@
 // not need to iterate from the beginning. However, I spent an more than an hour
 // trying to do that, and making the function was much easier.
 // ----------------------------------------------------------------------------
+// Takeaway: Not working with pointers for a while makes you rusty!
+// Rust spoils you with its static-ness. Functions are your friend.
+// ----------------------------------------------------------------------------
 
 /**
  * Definition for singly-linked list.
