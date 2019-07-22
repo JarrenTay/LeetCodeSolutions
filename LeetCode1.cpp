@@ -9,8 +9,9 @@
 // of iterating over the possible combinations of numbers, I can keep track of
 // each number, and search for the complement number in a hash table.
 // Solution two took 00:09:27 to implement.
-//
+// ----------------------------------------------------------------------------
 // Takeaway: Keep data structures in mind. De-rust!
+// ----------------------------------------------------------------------------
 
 /* Solution One
 class Solution {

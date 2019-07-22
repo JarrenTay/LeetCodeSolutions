@@ -25,8 +25,9 @@
 // The next optimization is a better sliding window with indexes. It keeps
 // track of the indices of the letters for less reiteration. It's almost what
 // I did for my third solution, but a loooot better. Implemented in 00:24:01
-//
+// ----------------------------------------------------------------------------
 // Takeaway: Think about data structues. Write good test cases.
+// ----------------------------------------------------------------------------
 
 /* First solution
 class Solution {
