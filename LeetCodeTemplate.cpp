@@ -1,6 +1,7 @@
 // ----------------------------------------------------------------------------
 // Leetcode problem title:
 // Leetcode problem number:
+// Leetcode problem difficulty:
 // Solution by: Jarren Tay
 // Date:
 // Time to solve:
